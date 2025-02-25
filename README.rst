@@ -25,6 +25,15 @@ Full documentation for the project can be found on `Read The Docs
 <https://pulsar.readthedocs.io/>`_.
 
 ------------------
+Why the fork?
+------------------
+
+This fork is intended to get the server running on the Unicore HPC middleware, allowing for the server to run as a service in larger HPC centers without needing to acess the base job scheduling system.
+
+I will figure stuff out as I go. Feel free and encouraged to contribute.
+
+
+------------------
 Configuring Galaxy
 ------------------
 
